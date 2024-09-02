@@ -4,4 +4,3 @@ Target Learning Backend :
 
 Target Learning Frontend :
 - React JS
-- Flutter Mobile
