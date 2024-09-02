@@ -1,3 +1,7 @@
 Target Learning Backend :
 - Node JS
 - MySQL
+
+Target Learning Frontend :
+- React JS
+- Flutter Mobile
