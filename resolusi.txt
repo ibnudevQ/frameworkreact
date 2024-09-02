@@ -1,6 +1,9 @@
 Target Learning Backend :
 - Node JS
 - MySQL
+- Express
+- Golang
 
 Target Learning Frontend :
 - React JS
+- Kotlin
