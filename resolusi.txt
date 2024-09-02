@@ -3,7 +3,11 @@ Target Learning Backend :
 - MySQL
 - Express
 - Golang
+- Rust
+- Python
 
 Target Learning Frontend :
 - React JS
 - Kotlin
+- Flutter
+
