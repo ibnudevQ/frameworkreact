@@ -1,0 +1,3 @@
+Target Learning Backend :
+- Node JS
+- MySQL
